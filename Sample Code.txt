@@ -1,10 +1,10 @@
-i<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
 
 <h1>First Page Created</h1>
-<h2>Learning git and github</h2>
-<h3>Github server</h3>
+<h2>Learning git</h2>
+<h3>Github server3</h3>
 <h4>Version control tool</h4>
 <h5>Azure Repos need to learn</h5>
 <h6>Just now learned basics about HTML</h6>
